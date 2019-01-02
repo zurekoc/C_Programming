@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#define MYNAME "Olivia Zurek"
-
 int main(){
   printf("Welcome to Hangman!\n");
   printf("Try to guess the secret word one letter at a time.\n\n");
